@@ -1,2 +1,2 @@
 # Portfolio
-A developer portfolio highlighting front-end projects and technical skills.
+Manu GV is a passionate frontend and full-stack developer, AI enthusiast, and tech innovator from Shivamogga, India. He is the founder of Malenadu AgriTech and Manu’s Wellness Café, combining technology, entrepreneurship, and wellness. Skilled in Python, web development, and AI-powered applications, Manu is dedicated to building innovative solutions and creating impactful projects that blend creativity and technology. He is committed to learning, sharing knowledge, and contributing to the tech and entrepreneurial community.A developer portfolio highlighting front-end projects and technical skills.
